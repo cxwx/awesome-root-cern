@@ -9,13 +9,15 @@
 <!-- Updated: 2025/01/07 06:11:03 by chenxu           ###   ########.fr      -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
-<!-- cspell:ignore cern astroroot-->
+<!-- cspell:ignore cern astroroot rootpy numpy -->
 
 # Awesome ROOT(cern) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[ROOT](https://root.cern.ch/), [Forum](https://root-forum.cern.ch/)
+[ROOT](https://root.cern.ch/), [Forum](https://root-forum.cern.ch/), [GitHub](https://github.com/root-project/root)
 
 This repo is an opinionated list of awesome ROOT frameworks, libraries, software and resources.
+
+**Any pull request is welcome!**
 
 ## Contents
 
@@ -44,3 +46,8 @@ Base on ROOT Ver < 6.26
     - part of [Corsika7](https://www.iap.kit.edu/corsika/99.php)
     - Only work on ROOT5
     - Corsika8 may rewrite coast
+* [rootpy](https://github.com/rootpy/rootpy)
+    - A pythonic interface for the ROOT libraries on top of the PyROOT bindings.
+* [root_numpy](https://github.com/scikit-hep/root_numpy)
+    - The interface between ROOT and NumPy
+    - replace by uproot
