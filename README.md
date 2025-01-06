@@ -35,9 +35,24 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 ## Editor Plugins
 
 ### Emacs
+
 * [cern-root-mode](https://github.com/jaypmorgan/cern-root-mode)
     - ![GitHub last commit](https://img.shields.io/github/last-commit/jaypmorgan/cern-root-mode)
     - ![GitHub Repo stars](https://img.shields.io/github/stars/jaypmorgan/cern-root-mode)
+
+### VSCode
+
+* [ROOT File Viewer]
+  - ROOT File Viewer
+
+### Neovim/Vim
+
+* [iron.nvim](https://github.com/Vigemus/iron.nvim)
+  - Interactive Repls Over Neovim
+  - support ROOT by default
+* [codi.nvim](https://github.com/metakirby5/codi.vim)
+  - The interactive scratchpad for hackers.
+  - replace cling with ROOT
 
 
 ## Script
