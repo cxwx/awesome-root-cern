@@ -31,9 +31,14 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 
 * [RubyROOT](https://github.com/odakahirokazu/RubyROOT)
     - Ruby binding of ROOT (CERN)
-* []
 
 ## Editor Plugins
+
+### Emacs
+* [cern-root-mode](https://github.com/jaypmorgan/cern-root-mode)
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/jaypmorgan/cern-root-mode)
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/jaypmorgan/cern-root-mode)
+
 
 ## Script
 
