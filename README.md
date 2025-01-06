@@ -19,13 +19,19 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 
 ## Contents
 
-### Library
+- [Library](#library)
+- [Editor Plugins](#editor-plugins)
+- [Script](#script)
+- [Data](#data)
+- [Outdated](#outdated)
 
-### Editor Plugins
+## Library
 
-### Script
+## Editor Plugins
 
-### Data
+## Script
+
+## Data
 
 ## Outdated
 
