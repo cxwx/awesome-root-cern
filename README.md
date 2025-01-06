@@ -29,6 +29,10 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 
 ## Library
 
+* [RubyROOT](https://github.com/odakahirokazu/RubyROOT)
+    - Ruby binding of ROOT (CERN)
+* []
+
 ## Editor Plugins
 
 ## Script
@@ -48,6 +52,10 @@ Base on ROOT Ver < 6.26
     - Corsika8 may rewrite coast
 * [rootpy](https://github.com/rootpy/rootpy)
     - A pythonic interface for the ROOT libraries on top of the PyROOT bindings.
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/rootpy/rootpy)
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/rootpy/rootpy)
 * [root_numpy](https://github.com/scikit-hep/root_numpy)
     - The interface between ROOT and NumPy
     - replace by uproot
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-hep/root_numpy)
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-hep/root_numpy)
