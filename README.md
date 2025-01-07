@@ -50,9 +50,13 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 * [iron.nvim](https://github.com/Vigemus/iron.nvim)
   - Interactive Repls Over Neovim
   - support ROOT by default
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/Vigemus/iron.nvim)
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/Vigemus/iron.nvim)
 * [codi.nvim](https://github.com/metakirby5/codi.vim)
   - The interactive scratchpad for hackers.
   - replace cling with ROOT
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/metakirby5/codi.vim)
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/metakirby5/codi.vim)
 
 
 ## Script
