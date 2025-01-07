@@ -39,7 +39,11 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 * [cern-root-mode](https://github.com/jaypmorgan/cern-root-mode)
     - ![GitHub last commit](https://img.shields.io/github/last-commit/jaypmorgan/cern-root-mode) ![GitHub Repo stars](https://img.shields.io/github/stars/jaypmorgan/cern-root-mode)
 * [uproot5](https://github.com/scikit-hep/uproot5)
+    - ROOT I/O in pure Python and NumPy.
     - ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-hep/uproot5) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-hep/uproot5)
+* [uproot-browser](https://github.com/scikit-hep/uproot-browser)
+    - A TUI viewer for ROOT files
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-hep/uproot-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-hep/uproot-browser)
 
 ### VSCode
 
