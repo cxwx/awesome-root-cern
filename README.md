@@ -37,8 +37,7 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 ### Emacs
 
 * [cern-root-mode](https://github.com/jaypmorgan/cern-root-mode)
-    - ![GitHub last commit](https://img.shields.io/github/last-commit/jaypmorgan/cern-root-mode)
-    - ![GitHub Repo stars](https://img.shields.io/github/stars/jaypmorgan/cern-root-mode)
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/jaypmorgan/cern-root-mode) ![GitHub Repo stars](https://img.shields.io/github/stars/jaypmorgan/cern-root-mode)
 
 ### VSCode
 
@@ -50,13 +49,11 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 * [iron.nvim](https://github.com/Vigemus/iron.nvim)
   - Interactive Repls Over Neovim
   - support ROOT by default
-    - ![GitHub last commit](https://img.shields.io/github/last-commit/Vigemus/iron.nvim)
-    - ![GitHub Repo stars](https://img.shields.io/github/stars/Vigemus/iron.nvim)
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/Vigemus/iron.nvim) ![GitHub Repo stars](https://img.shields.io/github/stars/Vigemus/iron.nvim)
 * [codi.nvim](https://github.com/metakirby5/codi.vim)
   - The interactive scratchpad for hackers.
   - replace cling with ROOT
-    - ![GitHub last commit](https://img.shields.io/github/last-commit/metakirby5/codi.vim)
-    - ![GitHub Repo stars](https://img.shields.io/github/stars/metakirby5/codi.vim)
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/metakirby5/codi.vim) ![GitHub Repo stars](https://img.shields.io/github/stars/metakirby5/codi.vim)
 
 
 ## Script
@@ -76,10 +73,8 @@ Base on ROOT Ver < 6.26
     - Corsika8 may rewrite coast
 * [rootpy](https://github.com/rootpy/rootpy)
     - A pythonic interface for the ROOT libraries on top of the PyROOT bindings.
-    - ![GitHub last commit](https://img.shields.io/github/last-commit/rootpy/rootpy)
-    - ![GitHub Repo stars](https://img.shields.io/github/stars/rootpy/rootpy)
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/rootpy/rootpy) ![GitHub Repo stars](https://img.shields.io/github/stars/rootpy/rootpy)
 * [root_numpy](https://github.com/scikit-hep/root_numpy)
     - The interface between ROOT and NumPy
     - replace by uproot
-    - ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-hep/root_numpy)
-    - ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-hep/root_numpy)
+    - ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-hep/root_numpy) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-hep/root_numpy)
