@@ -43,9 +43,11 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 * [ROOT4J](https://github.com/diana-hep/root4j)
     - archived
 * [root-io](https://docs.rs/root-io/latest/root_io/)
-    - rust IO
+    - rust
 * [alice-rs](https://github.com/cbourjau/alice-rs)
     - rust
+* [LisRoot](https://github.com/kloimhardt/LisRoot)
+    - lisp(clojure), YAMLScript wapper
 * [uproot5](https://github.com/scikit-hep/uproot5)
     - ROOT I/O in pure Python and NumPy.
 * [uproot-browser](https://github.com/scikit-hep/uproot-browser)
