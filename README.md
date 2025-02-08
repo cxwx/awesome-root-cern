@@ -40,7 +40,12 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
     - Julia package to access CERN ROOT files, wraps Python package uproot
 * [groot](https://pkg.go.dev/go-hep.org/x/hep/groot)
     - Experimental, pure-Go package to read and write ROOT files, without having ROOT installed.
-
+* [ROOT4J](https://github.com/diana-hep/root4j)
+    - archived
+* [root-io](https://docs.rs/root-io/latest/root_io/)
+    - rust IO
+* [alice-rs](https://github.com/cbourjau/alice-rs)
+    - rust
 
 ## Editor Plugins
 
