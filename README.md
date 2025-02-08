@@ -46,6 +46,13 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
     - rust IO
 * [alice-rs](https://github.com/cbourjau/alice-rs)
     - rust
+* [uproot5](https://github.com/scikit-hep/uproot5)
+    - ROOT I/O in pure Python and NumPy.
+* [uproot-browser](https://github.com/scikit-hep/uproot-browser)
+    - A TUI viewer for ROOT files
+* [RooUnfold](https://gitlab.cern.ch/RooUnfold/RooUnfold)
+    - ROOT unfolding framewrok
+
 
 ## Editor Plugins
 
@@ -53,10 +60,6 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 
 * [cern-root-mode](https://github.com/jaypmorgan/cern-root-mode)
     - Major-mode for ROOT and the Cling REPL in Emacs
-* [uproot5](https://github.com/scikit-hep/uproot5)
-    - ROOT I/O in pure Python and NumPy.
-* [uproot-browser](https://github.com/scikit-hep/uproot-browser)
-    - A TUI viewer for ROOT files
 
 ### VSCode
 
