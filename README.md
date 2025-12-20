@@ -54,6 +54,7 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
     - A TUI viewer for ROOT files
 * [RooUnfold](https://gitlab.cern.ch/RooUnfold/RooUnfold)
     - ROOT unfolding framewrok
+* [rntviewer]("https://codeberg.org/silverweed/rntviewer")
 
 
 ## Editor Plugins
