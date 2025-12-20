@@ -12,11 +12,24 @@
 <!-- cspell:ignore cern astroroot rootpy numpy repl repls pythonic -->
 <!-- LTeX: enabled=false -->
 
-# Awesome ROOT(cern) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome ROOT(CERN) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+<!--toc:start-->
+- [Awesome ROOT(CERN) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#awesome-rootcern-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)
+  - [Contents](#contents)
+  - [Library](#library)
+  - [Editor Plugins](#editor-plugins)
+    - [Emacs](#emacs)
+    - [VSCode](#vscode)
+    - [Neovim/Vim](#neovimvim)
+  - [Script](#script)
+  - [Data](#data)
+  - [Outdated](#outdated)
+<!--toc:end-->
 
 [ROOT](https://root.cern.ch/), [Forum](https://root-forum.cern.ch/), [GitHub](https://github.com/root-project/root)
 
-This repo is an opinionated list of awesome ROOT frameworks, libraries, software and resources.
+This repo is an opinionated list of awesome ROOT frameworks, libraries, software, and resources.
 
 **Any pull request is welcome!**
 
@@ -35,7 +48,7 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 * [HROOT](https://github.com/wavewave/HROOT)
     - HROOT: Haskell binding to ROOT
 * [ROOT.jl](https://github.com/JuliaHEP/ROOT.jl)
-    - CERN ROOT compatiblility for Julia
+    - CERN ROOT compatibility for Julia
 * [UpROOT.jl](https://github.com/JuliaHEP/UpROOT.jl)
     - Julia package to access CERN ROOT files, wraps Python package uproot
 * [groot](https://pkg.go.dev/go-hep.org/x/hep/groot)
@@ -53,8 +66,9 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 * [uproot-browser](https://github.com/scikit-hep/uproot-browser)
     - A TUI viewer for ROOT files
 * [RooUnfold](https://gitlab.cern.ch/RooUnfold/RooUnfold)
-    - ROOT unfolding framewrok
+    - ROOT unfolding framework
 * [rntviewer]("https://codeberg.org/silverweed/rntviewer")
+    - ROOT viewer for RNTuple
 
 
 ## Editor Plugins
@@ -72,7 +86,7 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 ### Neovim/Vim
 
 * [Iron.nvim](https://github.com/Vigemus/iron.nvim)
-  - Interactive Repls Over Neovim
+  - Interactive REPLs Over Neovim
   - support ROOT by default
 * [codi.nvim](https://github.com/metakirby5/codi.vim)
   - The interactive scratchpad for hackers.
@@ -87,12 +101,12 @@ This repo is an opinionated list of awesome ROOT frameworks, libraries, software
 Base on ROOT Ver < 6.26
 
 * [AstroROOT](https://www.isdc.unige.ch/astroroot/index)
-    - an extension of ROOT for astronomical data analysis.
+    - An extension of ROOT for astronomical data analysis.
     - ROOT Ver 5.18
 * Coast
-    - part of [Corsika7](https://www.iap.kit.edu/corsika/99.php)
+    - part of [Corsika 7](https://www.iap.kit.edu/corsika/99.php)
     - Only work on ROOT5
-    - Corsika8 may rewrite coast
+    - Corsika 8 may rewrite coast
 * [Rootpy](https://github.com/rootpy/rootpy)
     - A pythonic interface for the ROOT libraries on top of the PyROOT bindings.
 * [root_numpy](https://github.com/scikit-hep/root_numpy)
