@@ -117,7 +117,7 @@ Bindings and independent re-implementations of the ROOT file format — most wor
 
 - [root-project/veccore](https://github.com/root-project/veccore) — Portable SIMD vectorization library developed for ROOT's internals. `⭐ 88 · 🗓 2026-06`
 - [root-project/rootbench](https://github.com/root-project/rootbench) — ROOT benchmark suite and performance monitoring. `⭐ 23 · 🗓 2026-10`
-- [root-project/analysis-grand-challenge](https://github.com/root-project/analysis-grand-challenge) — Analysis Grand Challenge workflows exercised with ROOT/RDataFrame.
+- [root-project/analysis-grand-challenge](https://github.com/root-project/analysis-grand-challenge) — Analysis Grand Challenge workflows exercised with ROOT/RDataFrame. `⭐ 7 · 🗓 2024-12` 💤
 
 ## Data
 
