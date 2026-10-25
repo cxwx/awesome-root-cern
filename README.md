@@ -48,12 +48,12 @@ A curated list of awesome [ROOT](https://root.cern/) libraries, tools, bindings,
 
 ### I/O & Columnar Analysis
 
-- [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5) — ROOT I/O in pure Python and NumPy: read and write TTrees and RNTuples without installing ROOT. `⭐ 273 · 🗓 2026-10`
-- [scikit-hep/awkward](https://github.com/scikit-hep/awkward) — Manipulate arrays of jagged, nested data as easily as NumPy; the standard companion to uproot. `⭐ 988 · 🗓 2026-10`
-- [scikit-hep/coffea](https://github.com/scikit-hep/coffea) — Columnar Object Framework For Effective Analysis, built on uproot + awkward + dask. `⭐ 146 · 🗓 2026-10`
 - [columnflow/columnflow](https://github.com/columnflow/columnflow) — Vertical analysis framework built on columnar tools (coffea). `⭐ 35 · 🗓 2026-10`
 - [dask-contrib/dask-histogram](https://github.com/dask-contrib/dask-histogram) — Dask integration for boost-histogram, scaling histogramming out of uproot-fed workflows. `⭐ 25 · 🗓 2026-10`
 - [iris-hep/func_adl](https://github.com/iris-hep/func_adl) — Functional Analysis Description Language: query TTrees (or xAOD) with composable functional expressions. `⭐ 10 · 🗓 2026-08`
+- [scikit-hep/awkward](https://github.com/scikit-hep/awkward) — Manipulate arrays of jagged, nested data as easily as NumPy; the standard companion to uproot. `⭐ 988 · 🗓 2026-10`
+- [scikit-hep/coffea](https://github.com/scikit-hep/coffea) — Columnar Object Framework For Effective Analysis, built on uproot + awkward + dask. `⭐ 146 · 🗓 2026-10`
+- [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5) — ROOT I/O in pure Python and NumPy: read and write TTrees and RNTuples without installing ROOT. `⭐ 273 · 🗓 2026-10`
 - [ssl-hep/ServiceX](https://github.com/ssl-hep/ServiceX) — Service that delivers columnar data (uproot/xaod) from ROOT files as Arrow/Parquet streams. `⭐ 21 · 🗓 2026-10`
 
 ### Fitting & Statistics
@@ -69,23 +69,23 @@ A curated list of awesome [ROOT](https://root.cern/) libraries, tools, bindings,
 
 Bindings and independent re-implementations of the ROOT file format — most work without a ROOT installation.
 
-- [JuliaHEP/ROOT.jl](https://github.com/JuliaHEP/ROOT.jl) — Julia wrapper around libROOT for CERN ROOT compatibility. `⭐ 52 · 🗓 2026-01`
-- [JuliaHEP/UnROOT.jl](https://github.com/JuliaHEP/UnROOT.jl) — Native Julia reader (and RNTuple writer) for ROOT files, no dependence on ROOT or Python. `⭐ 121 · 🗓 2026-10`
-- [go-hep/hep](https://github.com/go-hep/hep) — go-hep.org/x/hep monorepo; `groot` reads and writes ROOT files in pure Go. `⭐ 254 · 🗓 2025-10` 🗄
-- [odakahirokazu/RubyROOT](https://github.com/odakahirokazu/RubyROOT) — Ruby binding of ROOT. `⭐ 7 · 🗓 2026-08`
-- [wavewave/HROOT](https://github.com/wavewave/HROOT) — Haskell binding to the ROOT libraries. `⭐ 11 · 🗓 2023-07` 💤
-- [m-dupont/oxyroot](https://github.com/m-dupont/oxyroot) — Reading and writing `.root` binary files in pure Rust. `⭐ 12 · 🗓 2024-10` 💤
 - [ariostas/rntuple](https://github.com/ariostas/rntuple) — RNTuple I/O library in Rust. `⭐ 2 · 🗓 2025-12`
 - [cbourjau/alice-rs](https://github.com/cbourjau/alice-rs) — ROOT I/O in Rust (the `root-io` crate), built to analyse ALICE open data. `⭐ 105 · 🗓 2023-05` 💤
+- [go-hep/hep](https://github.com/go-hep/hep) — go-hep.org/x/hep monorepo; `groot` reads and writes ROOT files in pure Go. `⭐ 254 · 🗓 2025-10` 🗄
+- [JuliaHEP/ROOT.jl](https://github.com/JuliaHEP/ROOT.jl) — Julia wrapper around libROOT for CERN ROOT compatibility. `⭐ 52 · 🗓 2026-01`
+- [JuliaHEP/UnROOT.jl](https://github.com/JuliaHEP/UnROOT.jl) — Native Julia reader (and RNTuple writer) for ROOT files, no dependence on ROOT or Python. `⭐ 121 · 🗓 2026-10`
 - [kloimhardt/LisRoot](https://github.com/kloimhardt/LisRoot) — Lisp (Clojure) and YAMLScript wrapper around PyROOT. `⭐ 10 · 🗓 2024-06` 💤
+- [m-dupont/oxyroot](https://github.com/m-dupont/oxyroot) — Reading and writing `.root` binary files in pure Rust. `⭐ 12 · 🗓 2024-10` 💤
+- [odakahirokazu/RubyROOT](https://github.com/odakahirokazu/RubyROOT) — Ruby binding of ROOT. `⭐ 7 · 🗓 2026-08`
+- [wavewave/HROOT](https://github.com/wavewave/HROOT) — Haskell binding to the ROOT libraries. `⭐ 11 · 🗓 2023-07` 💤
 
 ## Viewers & Visualization
 
+- [AlbertoPdRF/root-file-viewer](https://github.com/AlbertoPdRF/root-file-viewer) — VS Code extension to view ROOT files directly in the editor, rendered with JSROOT ([marketplace](https://marketplace.visualstudio.com/items?itemName=albertopdrf.root-file-viewer)). `⭐ 55 · 🗓 2026-10`
 - [root-project/jsroot](https://github.com/root-project/jsroot) — JavaScript ROOT: interactive ROOT graphics and file browsing in the browser; also powers ROOT's web display. `⭐ 215 · 🗓 2026-10`
 - [scikit-hep/uproot-browser](https://github.com/scikit-hep/uproot-browser) — Terminal (TUI) viewer for ROOT files, from the uproot team. `⭐ 78 · 🗓 2026-10`
-- [rntviewer](https://codeberg.org/silverweed/rntviewer) — Fast terminal viewer for RNTuple files.
-- [AlbertoPdRF/root-file-viewer](https://github.com/AlbertoPdRF/root-file-viewer) — VS Code extension to view ROOT files directly in the editor, rendered with JSROOT ([marketplace](https://marketplace.visualstudio.com/items?itemName=albertopdrf.root-file-viewer)). `⭐ 55 · 🗓 2026-10`
 - [ROOT RBrowser for VS Code](https://marketplace.visualstudio.com/items?itemName=CharlotteKnight.root-rbrowser) — Open a native ROOT RBrowser window from inside VS Code.
+- [rntviewer](https://codeberg.org/silverweed/rntviewer) — Fast terminal viewer for RNTuple files.
 
 ## Editor & IDE Support
 
@@ -100,8 +100,8 @@ Bindings and independent re-implementations of the ROOT file format — most wor
 
 ## Notebooks & REPLs
 
-- [root-project/cling](https://github.com/root-project/cling) — The C++ interpreter behind ROOT's REPL, also usable standalone. `⭐ 4201 · 🗓 2026-10`
 - [jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling) — Jupyter kernel for C++ built on Cling. `⭐ 3297 · 🗓 2025-10`
+- [root-project/cling](https://github.com/root-project/cling) — The C++ interpreter behind ROOT's REPL, also usable standalone. `⭐ 4201 · 🗓 2026-10`
 - [JupyROOT](https://root.cern/manual/python/#jupyroot) — ROOT's built-in Jupyter integration; ships with ROOT.
 - [SWAN](https://swan.cern.ch/) — CERN's service for interactive analysis notebooks with ROOT preinstalled.
 
@@ -117,7 +117,7 @@ Bindings and independent re-implementations of the ROOT file format — most wor
 
 - [root-project/veccore](https://github.com/root-project/veccore) — Portable SIMD vectorization library developed for ROOT's internals. `⭐ 88 · 🗓 2026-06`
 - [root-project/rootbench](https://github.com/root-project/rootbench) — ROOT benchmark suite and performance monitoring. `⭐ 23 · 🗓 2026-10`
-- [root-project/analysis-grand-challenge](https://github.com/root-project/analysis-grand-challenge) — Analysis Grand Challenge workflows exercised with ROOT/RDataFrame. `⭐ 7 · 🗓 2024-12` 💤
+- [root-project/analysis-grand-challenge](https://github.com/root-project/analysis-grand-challenge) — Analysis Grand Challenge workflows exercised with ROOT/RDataFrame.
 
 ## Data
 
@@ -126,15 +126,15 @@ Bindings and independent re-implementations of the ROOT file format — most wor
 
 ## Outdated
 
-Projects that target ROOT before 6.26, live in the "Outdated" section and stay listed for historical interest.
+Projects targeting ROOT versions before 6.26, kept for historical interest.
 
 - [AstroROOT](https://www.isdc.unige.ch/astroroot/index) — An extension of ROOT 5.18 for astronomical data analysis.
 - Coast — Part of [CORSIKA 7](https://www.iap.kit.edu/corsika/99.php); only works on ROOT 5. CORSIKA 8 may rewrite it.
+- [diana-hep/root4j](https://github.com/diana-hep/root4j) — Pure-Java ROOT file reader. `⭐ 7 · 🗓 2020-10` 💤
 - [rootpy/rootpy](https://github.com/rootpy/rootpy) — Pythonic interface to the ROOT libraries on top of PyROOT. `⭐ 205 · 🗓 2019-12` 💤
 - [scikit-hep/root_numpy](https://github.com/scikit-hep/root_numpy) — The interface between ROOT and NumPy; replaced by uproot. `⭐ 134 · 🗓 2023-01` 🗄
-- [scikit-hep/uproot3](https://github.com/scikit-hep/uproot3) — The uproot 3.x series, superseded by uproot 5. `⭐ 313 · 🗓 2021-02` 🗄
 - [scikit-hep/root_pandas](https://github.com/scikit-hep/root_pandas) — Load/save ROOT files as pandas DataFrames; superseded by uproot + awkward. `⭐ 111 · 🗓 2021-03` 🗄
-- [diana-hep/root4j](https://github.com/diana-hep/root4j) — Pure-Java ROOT file reader. `⭐ 7 · 🗓 2020-10` 💤
+- [scikit-hep/uproot3](https://github.com/scikit-hep/uproot3) — The uproot 3.x series, superseded by uproot 5. `⭐ 313 · 🗓 2021-02` 🗄
 
 ## Contribute
 
