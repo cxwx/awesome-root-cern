@@ -82,6 +82,7 @@ Bindings and independent re-implementations of the ROOT file format — most wor
 ## Viewers & Visualization
 
 - [AlbertoPdRF/root-file-viewer](https://github.com/AlbertoPdRF/root-file-viewer) — VS Code extension to view ROOT files directly in the editor, rendered with JSROOT ([marketplace](https://marketplace.visualstudio.com/items?itemName=albertopdrf.root-file-viewer)). `⭐ 55 · 🗓 2026-10`
+- [cxwx/root-preview.yazi](https://github.com/cxwx/root-preview.yazi) — Preview `.root` files as a tree inside the Yazi file manager (via `rootls`), with smart caching and quick open in ROOT's browser. `⭐ 1 · 🗓 2026-06`
 - [root-project/jsroot](https://github.com/root-project/jsroot) — JavaScript ROOT: interactive ROOT graphics and file browsing in the browser; also powers ROOT's web display. `⭐ 215 · 🗓 2026-10`
 - [scikit-hep/uproot-browser](https://github.com/scikit-hep/uproot-browser) — Terminal (TUI) viewer for ROOT files, from the uproot team. `⭐ 78 · 🗓 2026-10`
 - [ROOT RBrowser for VS Code](https://marketplace.visualstudio.com/items?itemName=CharlotteKnight.root-rbrowser) — Open a native ROOT RBrowser window from inside VS Code.
