@@ -1,0 +1,17 @@
+- [Home](README.md)
+- [Official Resources](README.md#official-resources)
+- [Install & Containers](README.md#install--containers)
+- Python Ecosystem
+  - [I/O & Columnar Analysis](README.md#io--columnar-analysis)
+  - [Fitting & Statistics](README.md#fitting--statistics)
+- [Other Languages](README.md#other-languages)
+- [Viewers & Visualization](README.md#viewers--visualization)
+- Editor & IDE Support
+  - [Emacs](README.md#emacs)
+  - [Neovim/Vim](README.md#neovimvim)
+- [Notebooks & REPLs](README.md#notebooks--repls)
+- [Learning & Training](README.md#learning--training)
+- [Benchmarks & Core Libraries](README.md#benchmarks--core-libraries)
+- [Data](README.md#data)
+- [Outdated](README.md#outdated)
+- [Contribute](README.md#contribute)
