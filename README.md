@@ -30,7 +30,7 @@ A curated list of awesome [ROOT](https://root.cern/) libraries, tools, bindings,
 ## Official Resources
 
 - [root.cern](https://root.cern/) — Official website: downloads, manuals, release notes.
-- [root-project/root](https://github.com/root-project/root) — Official source code; development happens on [GitLab](https://gitlab.cern.ch/root-project/root), this mirror publishes the releases. `⭐ 3326 · 🗓 2026-10`
+- [root-project/root](https://github.com/root-project/root) — Official source code; development happens on [GitLab](https://gitlab.cern.ch/root-project/root), this mirror publishes the releases. `⭐ 3328 · 🗓 2026-10`
 - [ROOT Reference Guide](https://root.cern/doc/master/) — Complete class and function reference.
 - [ROOT Manual](https://root.cern/manual/) — Official user guide, how-tos and concept chapters.
 - [ROOT Forum](https://root-forum.cern.ch/) — Community Q&A, answered by the ROOT team.
