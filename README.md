@@ -98,6 +98,7 @@ Bindings and independent re-implementations of the ROOT file format — most wor
 
 - [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) — Interactive REPLs over Neovim; supports ROOT by default. `⭐ 1372 · 🗓 2026-10`
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) — The interactive scratchpad for hackers; replace Cling with `root` to make it a ROOT REPL. `⭐ 3055 · 🗓 2023-02` 💤
+- [cxwx/rslime.nvim](https://github.com/cxwx/rslime.nvim) — Zero-dependency slime-style ROOT (Cling) REPL for Neovim: send `// %%` cells to `root -l`, with kernel restart, `.undo` and THttpServer support.
 
 ## Notebooks & REPLs
 
