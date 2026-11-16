@@ -30,7 +30,7 @@ A curated list of awesome [ROOT](https://root.cern/) libraries, tools, bindings,
 ## Official Resources
 
 - [root.cern](https://root.cern/) — Official website: downloads, manuals, release notes.
-- [root-project/root](https://github.com/root-project/root) — Official source code; development happens on [GitLab](https://gitlab.cern.ch/root-project/root), this mirror publishes the releases. `⭐ 3342 · 🗓 2026-11`
+- [root-project/root](https://github.com/root-project/root) — Official source code; development happens on [GitLab](https://gitlab.cern.ch/root-project/root), this mirror publishes the releases. `⭐ 3345 · 🗓 2026-11`
 - [ROOT Reference Guide](https://root.cern/doc/master/) — Complete class and function reference.
 - [ROOT Manual](https://root.cern/manual/) — Official user guide, how-tos and concept chapters.
 - [ROOT Forum](https://root-forum.cern.ch/) — Community Q&A, answered by the ROOT team.
@@ -50,8 +50,8 @@ A curated list of awesome [ROOT](https://root.cern/) libraries, tools, bindings,
 
 - [columnflow/columnflow](https://github.com/columnflow/columnflow) — Vertical analysis framework built on columnar tools (coffea). `⭐ 35 · 🗓 2026-11`
 - [dask-contrib/dask-histogram](https://github.com/dask-contrib/dask-histogram) — Dask integration for boost-histogram, scaling histogramming out of uproot-fed workflows. `⭐ 25 · 🗓 2026-11`
-- [iris-hep/func_adl](https://github.com/iris-hep/func_adl) — Functional Analysis Description Language: query TTrees (or xAOD) with composable functional expressions. `⭐ 10 · 🗓 2026-08`
-- [scikit-hep/awkward](https://github.com/scikit-hep/awkward) — Manipulate arrays of jagged, nested data as easily as NumPy; the standard companion to uproot. `⭐ 989 · 🗓 2026-11`
+- [iris-hep/func_adl](https://github.com/iris-hep/func_adl) — Functional Analysis Description Language: query TTrees (or xAOD) with composable functional expressions. `⭐ 10 · 🗓 2026-11`
+- [scikit-hep/awkward](https://github.com/scikit-hep/awkward) — Manipulate arrays of jagged, nested data as easily as NumPy; the standard companion to uproot. `⭐ 990 · 🗓 2026-11`
 - [scikit-hep/coffea](https://github.com/scikit-hep/coffea) — Columnar Object Framework For Effective Analysis, built on uproot + awkward + dask. `⭐ 146 · 🗓 2026-11`
 - [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5) — ROOT I/O in pure Python and NumPy: read and write TTrees and RNTuples without installing ROOT. `⭐ 274 · 🗓 2026-11`
 - [ssl-hep/ServiceX](https://github.com/ssl-hep/ServiceX) — Service that delivers columnar data (uproot/xaod) from ROOT files as Arrow/Parquet streams. `⭐ 21 · 🗓 2026-11`
@@ -60,9 +60,9 @@ A curated list of awesome [ROOT](https://root.cern/) libraries, tools, bindings,
 
 - [GooFit/GooFit](https://github.com/GooFit/GooFit) — Massively-parallel likelihood fitting for GPU and multi-core, RooFit-style API (CUDA/OpenMP). `⭐ 145 · 🗓 2026-11`
 - [scikit-hep/cabinetry](https://github.com/scikit-hep/cabinetry) — Build likelihoods from uproot/ROOT workspaces and run statistical inference with pyhf. `⭐ 33 · 🗓 2026-03`
-- [scikit-hep/hepstats](https://github.com/scikit-hep/hepstats) — HEP statistics toolkit: fits, sWeights, significances, goodness-of-fit. `⭐ 85 · 🗓 2026-10`
-- [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf) — Pure-Python HistFactory likelihoods; a portable alternative to RooFit workspaces. `⭐ 305 · 🗓 2026-11`
-- [zfit/zfit](https://github.com/zfit/zfit) — Model-independent Python fitting library designed as a RooFit alternative. `⭐ 205 · 🗓 2026-10`
+- [scikit-hep/hepstats](https://github.com/scikit-hep/hepstats) — HEP statistics toolkit: fits, sWeights, significances, goodness-of-fit. `⭐ 85 · 🗓 2026-11`
+- [scikit-hep/pyhf](https://github.com/scikit-hep/pyhf) — Pure-Python HistFactory likelihoods; a portable alternative to RooFit workspaces. `⭐ 307 · 🗓 2026-11`
+- [zfit/zfit](https://github.com/zfit/zfit) — Model-independent Python fitting library designed as a RooFit alternative. `⭐ 206 · 🗓 2026-10`
 - [RooUnfold](https://gitlab.cern.ch/RooUnfold/RooUnfold) — ROOT unfolding framework: response matrices, Bayesian, SVD, IDS and more.
 
 ## Other Languages
@@ -83,7 +83,7 @@ Bindings and independent re-implementations of the ROOT file format — most wor
 
 - [AlbertoPdRF/root-file-viewer](https://github.com/AlbertoPdRF/root-file-viewer) — VS Code extension to view ROOT files directly in the editor, rendered with JSROOT ([marketplace](https://marketplace.visualstudio.com/items?itemName=albertopdrf.root-file-viewer)). `⭐ 54 · 🗓 2026-10`
 - [cxwx/root-preview.yazi](https://github.com/cxwx/root-preview.yazi) — Preview `.root` files as a tree inside the Yazi file manager (via `rootls`), with smart caching and quick open in ROOT's browser. `⭐ 1 · 🗓 2026-06`
-- [root-project/jsroot](https://github.com/root-project/jsroot) — JavaScript ROOT: interactive ROOT graphics and file browsing in the browser; also powers ROOT's web display. `⭐ 215 · 🗓 2026-10`
+- [root-project/jsroot](https://github.com/root-project/jsroot) — JavaScript ROOT: interactive ROOT graphics and file browsing in the browser; also powers ROOT's web display. `⭐ 216 · 🗓 2026-11`
 - [scikit-hep/uproot-browser](https://github.com/scikit-hep/uproot-browser) — Terminal (TUI) viewer for ROOT files, from the uproot team. `⭐ 78 · 🗓 2026-11`
 - [ROOT RBrowser for VS Code](https://marketplace.visualstudio.com/items?itemName=CharlotteKnight.root-rbrowser) — Open a native ROOT RBrowser window from inside VS Code.
 - [rntviewer](https://codeberg.org/silverweed/rntviewer) — Fast terminal viewer for RNTuple files.
@@ -96,21 +96,21 @@ Bindings and independent re-implementations of the ROOT file format — most wor
 
 ### Neovim/Vim
 
-- [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) — Interactive REPLs over Neovim; supports ROOT by default. `⭐ 1372 · 🗓 2026-10`
+- [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) — Interactive REPLs over Neovim; supports ROOT by default. `⭐ 1374 · 🗓 2026-11`
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) — The interactive scratchpad for hackers; replace Cling with `root` to make it a ROOT REPL. `⭐ 3055 · 🗓 2023-02` 💤
-- [cxwx/rslime.nvim](https://github.com/cxwx/rslime.nvim) — Zero-dependency slime-style ROOT (Cling) REPL for Neovim: send `// %%` cells to `root -l`, with kernel restart, `.undo` and THttpServer support.
+- [cxwx/rslime.nvim](https://github.com/cxwx/rslime.nvim) — Zero-dependency slime-style ROOT (Cling) REPL for Neovim: send `// %%` cells to `root -l`, with kernel restart, `.undo` and THttpServer support. `⭐ 2 · 🗓 2026-11`
 
 ## Notebooks & REPLs
 
-- [jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling) — Jupyter kernel for C++ built on Cling. `⭐ 3294 · 🗓 2025-10` 💤
-- [root-project/cling](https://github.com/root-project/cling) — The C++ interpreter behind ROOT's REPL, also usable standalone. `⭐ 4203 · 🗓 2026-11`
+- [jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling) — Jupyter kernel for C++ built on Cling. `⭐ 3295 · 🗓 2025-10` 💤
+- [root-project/cling](https://github.com/root-project/cling) — The C++ interpreter behind ROOT's REPL, also usable standalone. `⭐ 4210 · 🗓 2026-11`
 - [JupyROOT](https://root.cern/manual/python/#jupyroot) — ROOT's built-in Jupyter integration; ships with ROOT.
 - [SWAN](https://swan.cern.ch/) — CERN's service for interactive analysis notebooks with ROOT preinstalled.
 
 ## Learning & Training
 
 - [root-project/training](https://github.com/root-project/training) — ROOT training material and tutorials. `⭐ 137 · 🗓 2024-07` 💤
-- [root-project/student-course](https://github.com/root-project/student-course) — ROOT course for students. `⭐ 139 · 🗓 2026-07`
+- [root-project/student-course](https://github.com/root-project/student-course) — ROOT course for students. `⭐ 140 · 🗓 2026-07`
 - [root-project/software-carpentry](https://github.com/root-project/software-carpentry) — ROOT material for Software Carpentry workshops. `⭐ 23 · 🗓 2024-11` 🗄
 - [root-project/root-cpp-course](https://github.com/root-project/root-cpp-course) — A course about using ROOT in C++. `⭐ 3 · 🗓 2026-09`
 - [Official tutorials](https://root.cern/doc/master/group__Tutorials.html) — The tutorial suite shipped with ROOT, browsable and runnable.
@@ -136,7 +136,7 @@ Projects targeting ROOT versions before 6.26, kept for historical interest.
 - [rootpy/rootpy](https://github.com/rootpy/rootpy) — Pythonic interface to the ROOT libraries on top of PyROOT. `⭐ 205 · 🗓 2019-12` 💤
 - [scikit-hep/root_numpy](https://github.com/scikit-hep/root_numpy) — The interface between ROOT and NumPy; replaced by uproot. `⭐ 134 · 🗓 2023-01` 🗄
 - [scikit-hep/root_pandas](https://github.com/scikit-hep/root_pandas) — Load/save ROOT files as pandas DataFrames; superseded by uproot + awkward. `⭐ 111 · 🗓 2021-03` 🗄
-- [scikit-hep/uproot3](https://github.com/scikit-hep/uproot3) — The uproot 3.x series, superseded by uproot 5. `⭐ 313 · 🗓 2021-02` 🗄
+- [scikit-hep/uproot3](https://github.com/scikit-hep/uproot3) — The uproot 3.x series, superseded by uproot 5. `⭐ 314 · 🗓 2021-02` 🗄
 
 ## Contribute
 
